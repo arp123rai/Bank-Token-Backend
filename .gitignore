@@ -1,0 +1,25 @@
+
+# 🔐 Sensitive
+application.properties
+application.yml
+.env
+
+# 🧱 Build files
+target/
+build/
+*.class
+
+# 🪵 Logs
+*.log
+logs/
+
+# 💻 IDE files
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+
+# 🧾 OS files
+.DS_Store
+Thumbs.db
